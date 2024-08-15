@@ -16,7 +16,7 @@
 </table>
 <ul>
    <li><a href="https://darkwebinformer.com/vpn-toolkit/">DarkWebInformer</a></li>
-      <p>VPN comparison toolkit. Compare different VPN providers.</p>
+    <p>VPN comparison toolkit. Compare different VPN providers.</p>
    <li><a href="https://mullvad.net/en">Mullvad VPN</a></li>
      <p>Mullvad is a commercial VPN service based in Sweden, that helps keep your online activity, identity, and location private.</p>
    <li><a href="https://nordvpn.com/">Nord VPN</a></li>
